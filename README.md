@@ -1,4 +1,6 @@
-### Hi there 👋
+### Yo
+
+I write code to find solutions to problems I have, i.e. I aim to solve real problems.
 
 <!--
 **DrNoLife/DrNoLife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
